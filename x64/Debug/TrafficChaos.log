@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\ACER\Desktop\CreateProject\ProjectVS\TrafficChaos\main.cpp(352,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Desktop\CreateProject\ProjectVS\TrafficChaos\main.cpp(360,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Desktop\CreateProject\ProjectVS\TrafficChaos\main.cpp(368,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  TrafficChaos.vcxproj -> C:\Users\ACER\Desktop\CreateProject\ProjectVS\TrafficChaos\x64\Debug\TrafficChaos.exe
